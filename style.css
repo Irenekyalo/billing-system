@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(247, 252, 252);
+    cursor:progress;
+}
+.navbar{
+    background-color: rgb(112, 151, 168);
+    display: flex;
+    align-items:center ;
+    padding: 10px;
+}
+div{
+    align-items: center;
+}
+.navlist{
+    display: flex;
+    align-items: space-between;
+    margin: 20px;
+    list-style: none;
+}
+a{
+    align-items: center;
+    padding: 20px;
+}
+.logo{
+    color: aqua;
+}
